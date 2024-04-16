@@ -35,11 +35,11 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-            Hi, I'm a web developer and UI/UX designer based in Canada. I create beautiful and functional websites for businesses of all sizes. 
-            I specialize in front-end development and design, but I'm also experienced in back-end development and server management. 
-            I'm passionate about creating user-friendly interfaces that are easy to navigate and visually appealing.
-            I'm always looking for new projects to work on, so if you have an idea for a website or app, I'd love to hear from you! 
-            Let's work together to bring your vision to life.
+            Hi, I&apos;m a web developer and UI/UX designer based in Canada. I create beautiful and functional websites for businesses of all sizes. 
+            I specialize in front-end development and design, but I&apos;m also experienced in back-end development and server management. 
+            I&apos;m passionate about creating user-friendly interfaces that are easy to navigate and visually appealing.
+            I&apos;m always looking for new projects to work on, so if you have an idea for a website or app, I&apos;d love to hear from you! 
+            Let&apos;s work together to bring your vision to life.
           </p>
           <div>
             <Link
